@@ -1,0 +1,24 @@
+{
+  "manifest_version": "1.0",
+  "org": "agronholm",
+  "repo": "pyproject-flake8",
+  "versions": [
+    {
+      "commit": "b340fbc92ca355b8235d8a6209e9eec4a6a5b2ba",
+      "parsed_at": "2026-10-11T19:18:09.008504+00:00",
+      "tag": "v0.0.1a2",
+      "filetree": "filetree/b340fbc92ca355b8235d8a6209e9eec4a6a5b2ba.nq.gz",
+      "blobs": [
+        "blob/70786c5ac71c53155c6fe0ff02825850afb3b104.nq.gz",
+        "blob/c7c70d0be2f94f22b62f5b9fea21536367fe62e8.nq.gz",
+        "blob/68a49daad8ff7e35068f2b7a97d643aab440eaec.nq.gz",
+        "blob/93ac7349888c4dd926766670ca84223876b5ef5a.nq.gz",
+        "blob/f45024a31979660b2b419fac43656cbc922ca3d5.nq.gz",
+        "blob/5be60137011aed98e66c59e1ab46712ea30ca050.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
